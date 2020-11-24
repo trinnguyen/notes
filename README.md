@@ -1,2 +1,2 @@
-## Notes about compiler (C), LLVM, osdev
+## Notes about Compilers, Rust
 - See Issues
