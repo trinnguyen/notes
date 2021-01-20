@@ -1,2 +1,2 @@
-## Notes about Compilers, Rust
+## Developer notes and code snippets
 - See Issues
